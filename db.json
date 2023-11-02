@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nurana",
+      "email": "nura1@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": "Tshirt",
+      "price": "20"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "body": "fjftfyjfc",
+      "postId": 1,
+      "id": 4
+    },
+    {
+      "name": "mehiiiii",
+      "surname": "isazade",
+      "id": 6
+    }
+  ]
+}
